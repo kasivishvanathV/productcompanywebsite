@@ -727,9 +727,13 @@ contact.html
 </html>
 ```
 ## OUTPUT:
+Home Page
 ![1](https://user-images.githubusercontent.com/118787417/215326288-a0dcd718-41e3-4003-ad8e-6301100d6aa6.png)
+People Page
 ![2](https://user-images.githubusercontent.com/118787417/215326297-5f519f05-bdfa-4e8d-afa5-bd08710bdf69.png)
+Product Page
 ![3](https://user-images.githubusercontent.com/118787417/215326303-a9481b32-6a61-4b05-b8ee-1ad2328d9131.png)
+Contact Page
 ![4](https://user-images.githubusercontent.com/118787417/215326316-e234aad7-d53d-4690-a10a-297f7037cf30.png)
 
 
